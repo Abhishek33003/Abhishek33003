@@ -1,16 +1,36 @@
-## Hi there 👋
+### 👋 Hey there! "I'm passionate about becoming a DevOps Engineer" 🚀
 
-<!--
-**Abhishek33003/Abhishek33003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into the world of **DevOps Engineering** from an academic background in **BSc and LLB**, combined with professional experience in the **medical billing industry**.
 
-Here are some ideas to get you started:
+Curious by nature and driven by hands-on learning, I'm currently focused on mastering the tools and practices that shape modern infrastructure and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🛠️ Tech Stack I'm Exploring:
+
+- 🐧 **Linux** – Exploring bash scripting, user and permission management (useradd, chmod, chown), and daily tools like vim for editing and automation basics
+- 🐳 **Docker** – Containerization, Dockerfiles, Compose
+- ⚙️ **Ansible** – Provisioning, configuration management
+- ☁️ **AWS** – EC2, S3, IAM, CLI, VPC, CloudWatch
+- 🔁 **Jenkins** – Building robust CI/CD pipelines
+- 🧱 **Terraform** – Infrastructure as Code (IaC) with AWS
+- ☸️ **Kubernetes** – Container orchestration & deployment
+- 🗃️ **Git & GitHub** – Version control, collaboration
+
+---
+
+### 📌 What I'm Building:
+
+- 🔧 End-to-end CI/CD pipelines using Jenkins & GitHub Actions  
+- ☁️ Infrastructure automation with Terraform + AWS  
+- 🐳 Containerized microservices using Docker & Kubernetes  
+- 📜 Ansible playbooks for system provisioning & config  
+- 🧑‍💻 Linux labs for real-world troubleshooting practice  
+
+---
+
+### 🌐 Let’s Connect!
+
+- 🔗 [LinkedIn](www.linkedin.com/in/abhishek-pandey-952771205)
+- 📫 Abhishekkumarbst10796@gmail.com
+
+> 💡 *This GitHub is a reflection of my learning journey — one commit at a time.*
